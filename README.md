@@ -1,1 +1,1 @@
-# vowelCOunterFunctionJS
+# vowelCounterFunctionJS
