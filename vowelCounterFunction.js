@@ -29,4 +29,4 @@ function vowelCounter(str) {
   }
   
   
-  console.log(vowelCounter("This is pretty darn cool if I say so myself"))
+  vowelCounter('This is pretty darn cool if I say so myself')
